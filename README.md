@@ -90,21 +90,15 @@ Sempre tive grande interesse por tecnologia e hoje meu principal foco é na áre
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=machad1n&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br clear="all"/>
 
-## 📫 Contato  
+---
 
-📧 **E-mail:** p.m4chado@gmail.com
-💼 **LinkedIn:** https://www.linkedin.com/in/machad1n/
+### 📫 Contato  
+
+- 📧 **E-mail:** p.m4chado@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/machad1n](https://www.linkedin.com/in/machad1n/)  
 
 ---
