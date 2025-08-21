@@ -87,6 +87,7 @@ Sempre tive grande interesse por tecnologia e hoje meu principal foco é na áre
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=machad1n&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
