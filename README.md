@@ -92,3 +92,19 @@ Sempre tive grande interesse por tecnologia e hoje meu principal foco é na áre
   />
 
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 📫 Contato  
+
+📧 **E-mail:** p.m4chado@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/machad1n/
+
+---
